@@ -1,1 +1,3 @@
-To jest podsafklowy plik
+To jest podsafklowy plik.
+
+1 commit
