@@ -1,1 +1,3 @@
-To jest podstawowy plik
+To jest podstawowy plik.
+
+Dodatkowe zdaniem.
